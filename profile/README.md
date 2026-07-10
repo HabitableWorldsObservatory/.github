@@ -1,0 +1,26 @@
+# HWO-Project
+
+Welcome to the Habitable Worlds Observatory (HWO) Project organization! This collection of repositories contains tools, simulations, and resources for modeling and analyzing the Habitable Worlds Observatory mission.
+
+
+### [yippy](https://github.com/HabitableWorldsObservatory/yippy)
+Python wrapper for yield input packages - facilitating exoplanet yield calculations and mission planning simulations.
+
+### [pyEDITH](https://github.com/HabitableWorldsObservatory/pyEDITH)
+**Python version of EDITH (Exposure Direct Imaging Timer for HWO)**  
+A python-based tool for calculating exposure times and planning direct imaging observations for the Habitable Worlds Observatory.
+
+### [hwostyle](https://github.com/HabitableWorldsObservatory/hwostyle)
+Style sheets and plotting utilities for creating consistent, publication-ready figures related to HWO science and engineering.
+
+### [SHARPy](https://github.com/HWO-Project/SHARPy) *(Coming Soon)*
+**Showcasing HWO's Aperture Resolution in Python**  
+Visualization and analysis tools for demonstrating the angular resolution capabilities of various HWO aperture configurations.
+
+## Contributing
+
+For questions please contact the repository maintainers.
+
+---
+
+*More information on HWO here: https://habitableworldsobservatory.org*
