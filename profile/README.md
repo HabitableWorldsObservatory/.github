@@ -1,6 +1,6 @@
-# HWO-Project
+# Habitable Worlds Observatory
 
-Welcome to the Habitable Worlds Observatory (HWO) Project organization! This collection of repositories contains tools, simulations, and resources for modeling and analyzing the Habitable Worlds Observatory mission.
+Welcome to the Habitable Worlds Observatory (HWO) organization! This collection of repositories contains tools, simulations, and resources for modeling and analyzing the Habitable Worlds Observatory mission.
 
 
 ### [yippy](https://github.com/HabitableWorldsObservatory/yippy)
