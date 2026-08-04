@@ -10,6 +10,10 @@ Python wrapper for yield input packages - facilitating exoplanet yield calculati
 **Python version of EDITH (Exposure Direct Imaging Timer for HWO)**  
 A python-based tool for calculating exposure times and planning direct imaging observations for the Habitable Worlds Observatory.
 
+### [PyISH](https://github.com/HabitableWorldsObservatory/PyISH)
+**PyISH: Python Integral Field Spectrograph Simulation for the Habitable Worlds Observatory.**
+PyISH takes in user inputs, and produces high-fidelity data products as seen by an ultraviolet Integral Field Spectrograph.
+
 ### [hwostyle](https://github.com/HabitableWorldsObservatory/hwostyle)
 Style sheets and plotting utilities for creating consistent, publication-ready figures related to HWO science and engineering.
 
