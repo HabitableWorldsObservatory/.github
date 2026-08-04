@@ -4,22 +4,23 @@ Welcome to the Habitable Worlds Observatory (HWO) organization! This collection 
 
 
 ### [yippy](https://github.com/HabitableWorldsObservatory/yippy)
-Python wrapper for yield input packages - facilitating exoplanet yield calculations and mission planning simulations.
+
+> Python wrapper for yield input packages - facilitating exoplanet yield calculations and mission planning simulations.
 
 ### [pyEDITH](https://github.com/HabitableWorldsObservatory/pyEDITH)
-**Python version of EDITH (Exposure Direct Imaging Timer for HWO)**  
-A python-based tool for calculating exposure times and planning direct imaging observations for the Habitable Worlds Observatory.
+>**Python version of EDITH (Exposure Direct Imaging Timer for HWO)**  
+> A python-based tool for calculating exposure times and planning direct imaging observations for the Habitable Worlds Observatory.
 
 ### [PyISH](https://github.com/HabitableWorldsObservatory/PyISH)
-**PyISH: Python Integral Field Spectrograph Simulation for the Habitable Worlds Observatory.**
-PyISH takes in user inputs, and produces high-fidelity data products as seen by an ultraviolet Integral Field Spectrograph.
+> **PyISH: Python Integral Field Spectrograph Simulation for the Habitable Worlds Observatory.**  
+> PyISH takes in user inputs, and produces high-fidelity data products as seen by an ultraviolet Integral Field Spectrograph.
 
 ### [hwostyle](https://github.com/HabitableWorldsObservatory/hwostyle)
-Style sheets and plotting utilities for creating consistent, publication-ready figures related to HWO science and engineering.
+>  Style sheets and plotting utilities for creating consistent, publication-ready figures related to HWO science and engineering.
 
 ### [SHARPy](https://github.com/HWO-Project/SHARPy) *(Coming Soon)*
-**Showcasing HWO's Aperture Resolution in Python**  
-Visualization and analysis tools for demonstrating the angular resolution capabilities of various HWO aperture configurations.
+>  **Showcasing HWO's Aperture Resolution in Python**  
+>  Visualization and analysis tools for demonstrating the angular resolution capabilities of various HWO aperture configurations.
 
 ## Contributing
 
