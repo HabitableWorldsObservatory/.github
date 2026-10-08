@@ -18,10 +18,6 @@ Welcome to the Habitable Worlds Observatory (HWO) organization! This collection 
 ### [hwostyle](https://github.com/HabitableWorldsObservatory/hwostyle)
 >  Style sheets and plotting utilities for creating consistent, publication-ready figures related to HWO science and engineering.
 
-### [SHARPy](https://github.com/HWO-Project/SHARPy) *(Coming Soon)*
->  **Showcasing HWO's Aperture Resolution in Python**  
->  Visualization and analysis tools for demonstrating the angular resolution capabilities of various HWO aperture configurations.
-
 ## Contributing
 
 For questions please contact the repository maintainers.
